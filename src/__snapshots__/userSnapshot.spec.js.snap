@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user snapshot test error when snapshot dont match 1`] = `
+Object {
+  "email": "Judge_Doyle@hotmail.com",
+  "jobTitle": "Lead Research Specialist",
+  "name": "Mina Watsica",
+  "phone": "133.639.5843",
+  "userId": 1,
+  "userName": "Zola9",
+}
+`;
+
+exports[`user snapshot test error when snapshot dont match 2`] = `
+Object {
+  "email": "Abagail9@gmail.com",
+  "jobTitle": "Dynamic Group Officer",
+  "name": "Estell Sipes",
+  "phone": "(294) 085-3837",
+  "userId": 56,
+  "userName": "Lavonne81",
+}
+`;
+
+exports[`user snapshot test error when snapshot dont match 3`] = `
+Object {
+  "email": "Asa33@gmail.com",
+  "jobTitle": "Direct Response Engineer",
+  "name": "Joshuah Borer V",
+  "phone": "(689) 150-8891 x977",
+  "userId": 1345,
+  "userName": "David.King",
+}
+`;
